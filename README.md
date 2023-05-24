@@ -1,6 +1,6 @@
 # FRT-project
 
-##This is my Future Ready Talent Project 
+## This is my Future Ready Talent Project 
 
 ### This is a web based application developed for Edu-Tech site with Azure bot services , developed for accomplishment of Future Ready Talent Internship Program lunched by Microsoft , Future Skills Prime , Quess , Github and EY.
 
