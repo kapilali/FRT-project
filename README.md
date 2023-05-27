@@ -26,16 +26,20 @@ https://youtu.be/vqPesw5HBns
 - Has an aesthetically pleasing visual design and architecture
 
 ## Screenshot from Azure 
-### Resource groups in Azure
+### Resource groups in Azure with Active Directory 
 ![Screenshot 2023-05-27 073939](https://github.com/kapilali/FRT-project/assets/132588460/6781213e-de5c-4e82-a2ae-f6999e75f805)
+
+
 ### health bot
 
  ![Screenshot 2023-05-27 074016](https://github.com/kapilali/FRT-project/assets/132588460/575d9505-d6f5-4543-9b6c-153f2bf6849a)
  ![Screenshot 2023-05-27 074348](https://github.com/kapilali/FRT-project/assets/132588460/a4c8baff-8890-4535-82dd-590c3f1618ac)
  
 ### Question Answering bot:
+
 - This bot was made using Azure Question answering in from Language service (Cognitive Service) also using Language Studio of Azure AI
 - here are the screenshot : 
+
  ![Screenshot 2023-05-27 074105](https://github.com/kapilali/FRT-project/assets/132588460/082f75ca-7d48-4f92-8220-978d1c1510b6)
  ![Screenshot 2023-05-27 074307](https://github.com/kapilali/FRT-project/assets/132588460/1ceedbe2-c15f-485c-97b9-54515a311d92)
 
@@ -51,6 +55,7 @@ https://youtu.be/vqPesw5HBns
 ![Screenshot 2023-05-27 074607](https://github.com/kapilali/FRT-project/assets/132588460/a963776d-f63a-4568-b263-48f420ac3901)
 
 ###  Static web app resource screenshot
+
 ![Screenshot 2023-05-27 074132](https://github.com/kapilali/FRT-project/assets/132588460/28bbe286-b560-4649-b42b-cb1e0092f693)
 ![Screenshot 2023-05-27 074132](https://github.com/kapilali/FRT-project/assets/132588460/9caacf5a-f453-44bb-a43d-0b8c698a3213)
 ![Screenshot 2023-05-27 074218](https://github.com/kapilali/FRT-project/assets/132588460/f5ecbe74-f5a5-494c-8739-fa6d7e27f035)
@@ -59,6 +64,8 @@ https://youtu.be/vqPesw5HBns
 
 
 ## Screenshots of project :
+
+- This includes my Web app with all the pages Screenshot and with Question Answering bot and Health bot Screenshots :
 
 ![Screenshot 2023-05-24 182814](https://github.com/kapilali/FRT-project/assets/132588460/c3fef636-9984-48f6-a85f-e1db40476779)
 ![Screenshot 2023-05-24 182830](https://github.com/kapilali/FRT-project/assets/132588460/d06ebfd3-65c3-42f0-a5c0-06b6ae1d06e3)
