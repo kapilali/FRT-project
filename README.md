@@ -37,7 +37,7 @@ https://youtu.be/vqPesw5HBns
  
 ### Question Answering bot:
 
-- This bot was made using Azure Question answering in from Language service (Cognitive Service) also using Language Studio of Azure AI
+- This bot was made using Azure Question answering in Language service (Cognitive Service) also using Language Studio of Azure AI
 - here are the screenshot : 
 
  ![Screenshot 2023-05-27 074105](https://github.com/kapilali/FRT-project/assets/132588460/082f75ca-7d48-4f92-8220-978d1c1510b6)
