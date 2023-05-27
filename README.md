@@ -4,7 +4,7 @@
 
 ### This is a web based application developed for Edu-Tech site with Azure bot services , developed for accomplishment of Future Ready Talent Internship Program lunched by Microsoft , Future Skills Prime , Quess , Github and EY.
 
-## Static Wrbsite with Health Bot
+## Static Website with Health Bot
 **project link** - 
 https://black-wave-01d54f910.3.azurestaticapps.net/
 
