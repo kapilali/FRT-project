@@ -25,7 +25,7 @@ https://youtu.be/vqPesw5HBns
 - Has collection of 6 pages including QnA bot and Health bot
 - Has an aesthetically pleasing visual design and architecture
 
-## Screenshot from Azure 
+## Screenshots from Azure 
 ### Resource groups in Azure with Active Directory 
 ![Screenshot 2023-05-27 073939](https://github.com/kapilali/FRT-project/assets/132588460/6781213e-de5c-4e82-a2ae-f6999e75f805)
 
